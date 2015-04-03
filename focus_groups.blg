@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: focus_groups.aux
+The style file: apalike.bst
+Database file #1: focus_groups.bib
+You've used 17 entries,
+            1935 wiz_defined-function locations,
+            571 strings with 6437 characters,
+and the built_in function-call counts, 5932 in all, are:
+= -- 599
+> -- 163
+< -- 15
++ -- 63
+- -- 50
+* -- 488
+:= -- 1047
+add.period$ -- 50
+call.type$ -- 17
+change.case$ -- 109
+chr.to.int$ -- 16
+cite$ -- 17
+duplicate$ -- 230
+empty$ -- 453
+format.name$ -- 71
+if$ -- 1139
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 17
+newline$ -- 87
+num.names$ -- 51
+pop$ -- 73
+preamble$ -- 1
+purify$ -- 110
+quote$ -- 0
+skip$ -- 180
+stack$ -- 0
+substring$ -- 495
+swap$ -- 15
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 98
+warning$ -- 0
+while$ -- 58
+width$ -- 0
+write$ -- 218

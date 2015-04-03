@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  2 APR 2015 12:05
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  3 APR 2015 00:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -217,28 +217,28 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 (./focus_groups.aux)
 \openout1 = `focus_groups.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 12.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 14.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 14.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 12.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 14.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -272,7 +272,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box27
-Package hyperref Info: Link coloring OFF on input line 12.
+Package hyperref Info: Link coloring OFF on input line 14.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -282,46 +282,53 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count105
 )
-LaTeX Info: Redefining \ref on input line 12.
-LaTeX Info: Redefining \pageref on input line 12.
-LaTeX Info: Redefining \nameref on input line 12.
+LaTeX Info: Redefining \ref on input line 14.
+LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \nameref on input line 14.
 
 (./focus_groups.out) (./focus_groups.out)
 \@outlinefile=\write3
 \openout3 = `focus_groups.out'.
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+
+
+LaTeX Warning: No \author given.
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
- [1
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+[1
 
-{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 33.
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 35.
 
-Overfull \hbox (11.62349pt too wide) in paragraph at lines 33--33
+Overfull \hbox (11.62349pt too wide) in paragraph at lines 35--35
 [][]\OT1/ptm/b/sc/12 FACE/GOAT \OT1/ptm/b/n/12 diph-thon-giza-tion and \OT1/ptm
 /b/sc/12 GOOSE/GOAT \OT1/ptm/b/n/12 fronting in York 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 34.
+(Font)              <7> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 34.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 34.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 34.
+(Font)              <5> on input line 36.
 
 <D_lawrence_fronting_and_diphthongization.png, id=20, 732.7375pt x 312.16624pt>
 File: D_lawrence_fronting_and_diphthongization.png Graphic file (type png)
 <use D_lawrence_fronting_and_diphthongization.png>
 Package pdftex.def Info: D_lawrence_fronting_and_diphthongization.png used on i
-nput line 40.
+nput line 42.
 (pdftex.def)             Requested size: 439.64589pt x 187.3012pt.
 
-Overfull \hbox (53.86679pt too wide) in paragraph at lines 39--41
+Overfull \hbox (53.86679pt too wide) in paragraph at lines 41--43
 []  [] 
  []
 
@@ -330,63 +337,78 @@ Overfull \hbox (53.86679pt too wide) in paragraph at lines 39--41
 File: goat_correlation.png Graphic file (type png)
 
 <use goat_correlation.png>
-Package pdftex.def Info: goat_correlation.png used on input line 50.
+Package pdftex.def Info: goat_correlation.png used on input line 52.
 (pdftex.def)             Requested size: 277.63939pt x 247.52666pt.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 59.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 61.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 59.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
  [4 <./goat_correlation.png>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 68.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 70.
 
-Overfull \hbox (0.80716pt too wide) in paragraph at lines 76--77
+Overfull \hbox (0.80716pt too wide) in paragraph at lines 78--79
 []\OT1/ptm/m/n/10 Production data from three age groups, show-ing the rapid up-
 take of \OT1/ptm/m/sc/10 goose \OT1/ptm/m/n/10 fronting
  []
 
 [5]
-Overfull \hbox (7.66658pt too wide) in paragraph at lines 89--90
+Overfull \hbox (7.66658pt too wide) in paragraph at lines 91--92
 []\OT1/ptm/m/n/10 The at-ti-tu-di-nal in-dex (c) is quan-ti-ta-tively un-con-vi
 nc-ing -- re-sponses to the re-searchers'
  []
 
 [6] [7]
-Overfull \hbox (4.6474pt too wide) in paragraph at lines 174--175
+Overfull \hbox (4.6474pt too wide) in paragraph at lines 176--177
 []\OT1/ptm/m/n/10 The ap-proach adopted in the group in-ter-views was based on 
 Campbell-Kibler (2007),
  []
 
 [8]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 186.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 188.
 
  (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) [9]
 [10]
-LaTeX Font Info:    Try loading font information for T3+ptm on input line 220.
+LaTeX Font Info:    Try loading font information for T3+ptm on input line 222.
  (/usr/local/texlive/2012/texmf-dist/tex/latex/tipa/t3ptm.fd
 File: t3ptm.fd 2001/12/31 TIPA font definitions
 )
-Overfull \hbox (2.1421pt too wide) in paragraph at lines 216--237
+Overfull \hbox (2.1421pt too wide) in paragraph at lines 218--237
  [][] 
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 255--255
+Underfull \hbox (badness 1163) in paragraph at lines 247--247
+[]\OT1/ptm/m/n/10 ...and that traf-fic can be queued
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 247--247
+\OT1/ptm/m/n/10 back be-yond Knavesmire \OT1/ptm/b/n/10 Road\OT1/ptm/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 247--247
+\OT1/ptm/m/n/10 now, an' round at Bish-opthorpe
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 253--253
 []\OT1/ptm/m/n/10 ...they worked four hours in the
  []
 
 
-Overfull \hbox (2.1421pt too wide) in paragraph at lines 241--262
+Overfull \hbox (2.1421pt too wide) in paragraph at lines 241--260
  [][] 
  []
 
 [11] [12]
-Overfull \hbox (0.68654pt too wide) in paragraph at lines 270--271
+Overfull \hbox (0.68654pt too wide) in paragraph at lines 268--269
 []\OT1/ptm/m/n/10 During pi-lot-ing of the stim-uli among col-leagues it was po
 inted out that some record-
  []
@@ -396,82 +418,90 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ì in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--290
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--290
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--290
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 286--293
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 284--291
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--293
+Underfull \hbox (badness 10000) in paragraph at lines 284--291
 
  []
 
 
-Overfull \hbox (6.35667pt too wide) in paragraph at lines 295--314
+Overfull \hbox (6.35667pt too wide) in paragraph at lines 293--312
 [][] 
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 328--329
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--332
+Underfull \hbox (badness 10000) in paragraph at lines 328--330
 
  []
 
 [15]
 LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 345.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 343.
 
-Overfull \hbox (43.27747pt too wide) in paragraph at lines 353--353
+Overfull \hbox (43.27747pt too wide) in paragraph at lines 351--351
 []\OT1/ptm/m/it/10 Do you think peo-ple are chang-ing the way they pro-nounce t
 he vowel in `road'/`ages'/`food'? 
  []
 
-[16] [17] [18] <yorkmap.jpg, id=120, 578.16pt x 573.342pt>
+[16] [17] [18] (./focus_groups.bbl
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+ [19]) [20]
+<yorkmap.jpg, id=150, 578.16pt x 573.342pt>
 File: yorkmap.jpg Graphic file (type jpg)
  <use yorkmap.jpg>
-Package pdftex.def Info: yorkmap.jpg used on input line 384.
+Package pdftex.def Info: yorkmap.jpg used on input line 387.
 (pdftex.def)             Requested size: 433.61893pt x 430.00543pt.
 
-Overfull \hbox (33.61345pt too wide) in paragraph at lines 383--385
+Overfull \hbox (33.61345pt too wide) in paragraph at lines 386--388
 []  [] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 387.
-[19 <./yorkmap.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 387.
+[21 <./yorkmap.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 390.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 390.
  (./focus_groups.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 387.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 387.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 390.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 390.
 Package rerunfilecheck Info: File `focus_groups.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 387.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 390.
  ) 
 Here is how much of TeX's memory you used:
- 6539 strings out of 493488
- 93347 string characters out of 3141326
- 181334 words of memory out of 3000000
- 9716 multiletter control sequences out of 15000+200000
- 25801 words of font info for 50 fonts, out of 3000000 for 9000
+ 6623 strings out of 493488
+ 95358 string characters out of 3141326
+ 180927 words of memory out of 3000000
+ 9773 multiletter control sequences out of 15000+200000
+ 29377 words of font info for 56 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 34i,11n,23p,1332b,413s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,11n,23p,1308b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2012/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/20
@@ -479,10 +509,10 @@ xlive/2012/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/20
 ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/
 type1/urw/times/utmri8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/pub
 lic/tipa/xipa10.pfb>
-Output written on focus_groups.pdf (19 pages, 785625 bytes).
+Output written on focus_groups.pdf (21 pages, 791351 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 133 compressed objects within 2 object streams
- 52 named destinations out of 1000 (max. 500000)
+ 196 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
+ 72 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
